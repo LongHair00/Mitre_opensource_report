@@ -8,12 +8,12 @@ Step 1: Access to http://localhost/Cockpit/auth/login?to=%2F and log in to an ac
 
 Step 2: In upload feature, inject payload XSS: <img src=x onerror=alert('XSS_by_NCS');> into content file, and filename has the extension .shtml
 
-![Alt text](image1.png)
+![Alt text](image2.png)
 
 Step 3: Access to images by using link in Copy asset link
 
-![Alt text](image1.png)
+![Alt text](image3.png)
 
 And XSS payload will execute
  
-![Alt text](image1.png)
+![Alt text](image4.png)
