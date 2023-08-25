@@ -1,4 +1,4 @@
-In Cockpit CMS v2.6.3, I found Stored-XSS in upload assets feature
+## In Cockpit CMS v2.6.3, I found Stored-XSS in upload assets feature
 Cockpit CMS v2.6.3
 Installation: https://github.com/Cockpit-HQ/Cockpit
 Reproduce bug:
